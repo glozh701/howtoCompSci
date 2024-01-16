@@ -21,7 +21,7 @@ A comprehensive guide to success for Vanderbilt students majoring in CS.
 
 我相信在写这个page的过程中，我也会邀请更多认识的朋友来补足我所不了解的细分领域，希望我们的经历和体验能给后来人带来一些insight。也希望这份guide能帮助读到这里的你们最优化在vandy读书的体验。
 
-愿如风有信，常与日俱中。
+愿如风有信，长与日俱中。
 
 *Note: 对于所有课程的评价以及见解仅一家之言，不作为客观评判标准*
 
@@ -43,7 +43,7 @@ A comprehensive guide to success for Vanderbilt students majoring in CS.
 
 **6000 level courses： 研究生级别的intro level course, often an overview on a specific CompSci aspect**
 
-**8000 level courses: individualized study, or special topics, in-depth material and discussion on very specific CS specialization，usually designed by a research faculty and is highly concentrated on their research direction**
+**8000 level courses: individualized study, or special topics, in-depth material and discussion on very specific CS specialization, usually designed by a research faculty and is highly concentrated on their research direction**
 
 
 在后面的section，我有把一些现有的研究生等级的课列出来。
