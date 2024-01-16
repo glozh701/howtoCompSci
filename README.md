@@ -6,7 +6,7 @@ A comprehensive guide to success for Vanderbilt students majoring in CS.
 2. 选课：CS Core
 3. 选课：CS Electives
 4. 选课：Grad course 101
-5. The mysterious honor program
+5. The mysterious honors program
 6. Everything about Research
 7. Find an Internship
 8. My future career path?
@@ -23,5 +23,21 @@ A comprehensive guide to success for Vanderbilt students majoring in CS.
 Note: 对于所有课程的评价以及见解仅一家之言，不作为客观评判标准
 
 ## 选课：CS Core
+
+## 选课：CS Electives
+
+## 选课：Grad course 101
+
+## The mysterious honor program
+
+## Everything about Research
+
+## Find an internship
+
+## My future career path?
+
+## For non-CS major
+
+## Credit and Contribution
 
 
