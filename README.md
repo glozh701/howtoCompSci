@@ -22,7 +22,7 @@ A comprehensive guide to success for Vanderbilt students majoring in CS.
 
 愿如风有信，常与日俱中。
 
-Note: 对于所有课程的评价以及见解仅一家之言，不作为客观评判标准
+*Note: 对于所有课程的评价以及见解仅一家之言，不作为客观评判标准*
 
 ## 选课：CS Core
 
