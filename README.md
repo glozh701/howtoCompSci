@@ -34,8 +34,11 @@ A comprehensive guide to success for Vanderbilt students majoring in CS.
 有些学生在修完专业必修课之后，或许想要在某一个细分领域内上更高阶的课，这个时候就可以考虑上grad level courses了，CS专业中5及以上的课号被算作研究生课程，具体细节如下：
 
 **5000 level courses: often cross-listed with 3000 level courses (e.g. CS3891/5891), 通常是用来给研究生打基础的课，本科生通常会上3打头的课，和5开头的几乎没什么区别**
+
 **6000 level courses： 研究生级别的intro level course, often an overview on a specific CompSci aspect**
+
 **8000 level courses: individualized study, or special topics, in-depth material and discussion on very specific CS specialization，usually designed by a research faculty and is highly concentrated on their research direction**
+
 
 在后面的section，我有把一些现有的研究生等级的课列出来。
 
