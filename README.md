@@ -51,7 +51,7 @@ A comprehensive guide to success for Vanderbilt students majoring in CS.
 
 [表格链接](https://registrar.vanderbilt.edu/documents/UGRD-enroll-outside-career.pdf)
 
-director of graduate studies: [Abhishek Dubey](abhishek.dubey@vanderbilt.edu), and [Taylor Johnson](taylor.johnson@vanderbilt.edu)(找其中一个签字就行)
+director of graduate studies: [Abhishek Dubey](mailto:abhishek.dubey@vanderbilt.edu), and [Taylor Johnson](mailto:taylor.johnson@vanderbilt.edu)(找其中一个签字就行)
 
 Engineering OAS: 电子表格发到engineering-oas@vanderbilt.edu，或者交到FGH 104
 
@@ -103,6 +103,7 @@ CS6386 - System-Level Fault Diagnosis
 CS6387 - Topics in Software Engineering
 
 CS6388 - Model-Integrated Computing
+
 
 
 CS8395 - Special Topics
