@@ -26,6 +26,11 @@ A comprehensive guide to success for Vanderbilt students majoring in CS.
 *Note: 对于所有课程的评价以及见解仅一家之言，不作为客观评判标准*
 
 ## 选课：CS Core
+在范德堡，一个CS学生要上的专业课以及进阶（prerequisite）关系可以参照以下这张表格：
+<img width="691" alt="Screen Shot 2024-01-16 at 17 46 55" src="https://github.com/glozh701/howtoCompSci/assets/70546368/52d55bf4-e2e3-4f38-9257-2f01ab41d74c">
+
+这张图应当能让你有一个vandy cs课之间关系的直接认知。在后面的段落里，会对每节课/每一部分cs major requirement有更详细的解释。
+
 
 ## 选课：CS Electives
 
@@ -42,6 +47,8 @@ A comprehensive guide to success for Vanderbilt students majoring in CS.
 
 在后面的section，我有把一些现有的研究生等级的课列出来。
 
+
+
 ### How to enroll
 想上这样的课有一些需要满足的要求：
 - 必须是junior or senior，前两个学期的avg GPA > 3.5
@@ -54,6 +61,8 @@ A comprehensive guide to success for Vanderbilt students majoring in CS.
 director of graduate studies: [Abhishek Dubey](mailto:abhishek.dubey@vanderbilt.edu), and [Taylor Johnson](mailto:taylor.johnson@vanderbilt.edu)(找其中一个签字就行)
 
 Engineering OAS: 电子表格发到engineering-oas@vanderbilt.edu，或者交到FGH 104
+
+
 
 ### Existing listed courses
 CS6310 - Design and Analysis of Algorithms
@@ -117,6 +126,13 @@ CS8396 - Special Topics
 ## Find an internship
 
 ## My future career path?
+通常来讲，一名CS学生的职业道路有如下几条：SWE（front-end, back-end, full stack）,PM, Researcher/Scientist. 我会在接下来几个section讲一讲每个职业所需的技术栈。
+
+### SWE (Software Engineer)
+
+### PM (Product Manager)
+
+### Researcher/Scientist
 
 ## For non-CS major
 
