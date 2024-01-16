@@ -49,9 +49,9 @@ A comprehensive guide to success for Vanderbilt students majoring in CS.
 
 选好了自己想上的课，分别去找这门课的教授，director of graduate studies, 自己的advisor签字，然后发给OAS就可以了，截止时间是**No later than 10th day of classes**，但是这个程序最好越早完成越好，因为只有OAS approve之后才能把你enroll进去，他们的办事效率实在不敢恭维，enroll太晚可能就会一直待在waitlist上进不去。
 
-[表格链接]{https://registrar.vanderbilt.edu/documents/UGRD-enroll-outside-career.pdf}
+[表格链接](https://registrar.vanderbilt.edu/documents/UGRD-enroll-outside-career.pdf)
 
-director of graduate studies: [Abhishek Dubey]{abhishek.dubey@vanderbilt.edu}, and [Taylor Johnson]{taylor.johnson@vanderbilt.edu}
+director of graduate studies: [Abhishek Dubey](abhishek.dubey@vanderbilt.edu), and [Taylor Johnson](taylor.johnson@vanderbilt.edu)(找其中一个签字就行)
 
 Engineering OAS: 电子表格发到engineering-oas@vanderbilt.edu，或者交到FGH 104
 
@@ -122,9 +122,12 @@ CS8396 - Special Topics
 ## 常见resources
 [工程学院 academic advising information page](https://engineering.vanderbilt.edu/academic-services/AcademicAdvising/index.php)
 
+
 [Course catelog](https://registrar.vanderbilt.edu/catalogs/)
 
+
 [Academic calendar](https://registrar.vanderbilt.edu/calendars/)
+
 
 ## Credit and Contribution
 
