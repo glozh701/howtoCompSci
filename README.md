@@ -47,36 +47,63 @@ A comprehensive guide to success for Vanderbilt students majoring in CS.
 选好了自己想上的课，分别去找这门课的教授，director of graduate studies, 自己的advisor签字，然后发给OAS就可以了，截止时间是**No later than 10th day of classes**，但是这个程序最好越早完成越好，因为只有OAS approve之后才能把你enroll进去，他们的办事效率实在不敢恭维，enroll太晚可能就会一直待在waitlist上进不去。
 
 [表格链接]{https://registrar.vanderbilt.edu/documents/UGRD-enroll-outside-career.pdf}
+
 director of graduate studies: [Abhishek Dubey]{abhishek.dubey@vanderbilt.edu}, and [Taylor Johnson]{taylor.johnson@vanderbilt.edu}
+
 Engineering OAS: 电子表格发到engineering-oas@vanderbilt.edu，或者交到FGH 104
 
 ### Existing listed courses
 CS6310 - Design and Analysis of Algorithms
+
 CS6311 - Graph Algorithms
+
 CS6315 - Automated Verification
+
 CS6320 - Algorithms for Parallel Computing
+
 CS6350 - Artificial Neural Networks
+
 CS6351 - Advanced Animation
+
 CS6352 - Human-Computer Interaction
+
 CS6357 - Open-source Programming for Medical Image Analysis
+
 CS6358 - Computer Vision
+
 CS6359 - Medical Image Registration
+
 CS6360 - Advanced Artificial Intelligence
+
 CS6362 - Advanced Machine Learning
+
 CS6364 - Intelligent Learning Environments
+
 CS6366 - Distributed Artificial Intelligence
+
 CS6368 - Computational Economics
+
 CS6375 - Discrete-Event Systems: Supervisory Control and Diagnosis
+
 CS6376 - Foundations of Hybrid and Embedded Systems
+
 CS6377 - Topics in Embedded Software and Systems
+
 CS6381 - Distributed Systems Principles
+
 CS6384 - Performance Evaluation of Computer Systems
+
 CS6385 - Advanced Software Engineering
+
 CS6386 - System-Level Fault Diagnosis
+
 CS6387 - Topics in Software Engineering
+
 CS6388 - Model-Integrated Computing
 
+
 CS8395 - Special Topics
+
 CS8396 - Special Topics
 
 ## The mysterious honors program
