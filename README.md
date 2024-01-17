@@ -6,13 +6,14 @@ A comprehensive guide to success for Vanderbilt students majoring in CS.
 2. [选课：CS Core](#选课cs-core)
 3. [选课：CS Electives](#选课cs-electives)
 4. [选课：Grad course 101](#选课grad-course-101)
-5. [The mysterious honors program](#the-mysterious-honors-program)
-6. [Everything about Research](#everything-about-research)
-7. [Find an Internship](#find-an-internship)
-8. [My future career path?](#my-future-career-path)
-9. [For non-CS major](#for-non-cs-major)
-10. [常见resources](#常见resources)
-11. [Credit and Contribution](#credit-and-contribution)
+5. [Demystify Immersion](#demystify-immersion)
+6. [The honors program](#the-honors-program)
+7. [Everything about Research](#everything-about-research)
+8. [Find an Internship](#find-an-internship)
+9. [My future career path?](#my-future-career-path)
+10. [For non-CS major](#for-non-cs-major)
+11. [常见resources](#常见resources)
+12. [Credit and Contribution](#credit-and-contribution)
 
 ## 前言
 在我刚进入范德堡的时候，似乎这种选课前在微信群里问学姐学长们上课体验的传统也已经持续许久。诚然，在刚入学的时候，上什么课，怎么上课，上什么教授的课，都是非常重要的问题。时间久了，我也逐渐从群里发问的新生过渡到了回答群里问题的学姐。三年的本科生涯让我逐渐意识到，选好课，上好课，仅仅是作为一个CS学生成功的很小一部分，所解答的问题也逐渐从课程设置和内容拓展到了找研究，找实习，还有许多别的琐碎的问题上。
@@ -120,7 +121,9 @@ CS8395 - Special Topics
 
 CS8396 - Special Topics
 
-## The mysterious honors program
+## Demystify Immersion
+
+## The honors program
 
 ## Everything about Research
 
