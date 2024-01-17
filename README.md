@@ -3,17 +3,18 @@ A comprehensive guide to success for Vanderbilt students majoring in CS.
 
 ## Table of Contents
 1. [前言](#前言)
-2. [选课：CS Core](#选课cs-core)
-3. [选课：CS Electives](#选课cs-electives)
-4. [选课：Grad course 101](#选课grad-course-101)
-5. [Demystify Immersion](#demystify-immersion)
-6. [The honors program](#the-honors-program)
-7. [Everything about Research](#everything-about-research)
-8. [Find an Internship](#find-an-internship)
-9. [My future career path?](#my-future-career-path)
-10. [For non-CS major](#for-non-cs-major)
-11. [常见resources](#常见resources)
-12. [Credit and Contribution](#credit-and-contribution)
+2. [选课：非CS领域必修课](#选课-非cs领域必修课)
+3. [选课：CS Core](#选课cs-core)
+4. [选课：CS Electives](#选课cs-electives)
+5. [选课：Grad course 101](#选课grad-course-101)
+6. [Demystify Immersion](#demystify-immersion)
+7. [The honors program](#the-honors-program)
+8. [Everything about Research](#everything-about-research)
+9. [Find an Internship](#find-an-internship)
+10. [My future career path?](#my-future-career-path)
+11. [For non-CS major](#for-non-cs-major)
+12. [常见resources](#常见resources)
+13. [Credit and Contribution](#credit-and-contribution)
 
 ## 前言
 在我刚进入范德堡的时候，似乎这种选课前在微信群里问学姐学长们上课体验的传统也已经持续许久。诚然，在刚入学的时候，上什么课，怎么上课，上什么教授的课，都是非常重要的问题。时间久了，我也逐渐从群里发问的新生过渡到了回答群里问题的学姐。三年的本科生涯让我逐渐意识到，选好课，上好课，仅仅是作为一个CS学生成功的很小一部分，所解答的问题也逐渐从课程设置和内容拓展到了找研究，找实习，还有许多别的琐碎的问题上。
@@ -25,6 +26,29 @@ A comprehensive guide to success for Vanderbilt students majoring in CS.
 愿如风有信，长与日俱中。
 
 *Note: 对于所有课程的评价以及见解仅一家之言，不作为客观评判标准*
+
+## 选课：非CS领域必修课
+这些信息可以在academic catalog上面找到。选择包含这部分信息是觉得会方便信息检索。这一部分会列出所有degree non-technical requirements，与CS相关的课请参考其他section.
+
+- Mathematics (20–22 hours). Required components:\n
+    a. Calculus/Linear algebra (14–16 hours). A sequence selected from the following:\n
+        i. MATH 1300, 1301, 2300, and one of 2410 or 2600, or\n
+        ii. MATH 1300, 1301, 2500, 2501\n
+    b. Statistics/Probability (3 hours): MATH 2810, 2820, or 3640.\n
+    c. Elective course (3 hours). To be selected from MATH 2420 or courses numbered 2610 or higher.\n
+  
+- Science (12 hours). To be selected from the following list and include at least one laboratory course: BSCI 1100, 1100L, 1510, 1510L, 1511, 1511L, 2218, 2219; CHEM 1601, 1601L, 1602, 1602L; Earth and Environmental Sciences 1510, 1510L; MSE 1500, 1500L; PHYS 1601, 1601L, 1602, 1602L. Recommended: CHEM 1601, 1601L; PHYS 1601, 1602.
+
+
+- Introduction to Engineering (3 hours): ES 1401, 1402, 1403. **在第一学期上完，必修**
+
+
+- Liberal Arts Core (18 hours). To be selected to fulfill the Liberal Arts Core requirements listed in the Degree Programs in Engineering.
+
+- Computers and Ethics (3 hours) CS 1151. May be used to satisfy three hours from the Liberal Arts Core (#4) or Open Electives (#10). May not be taken on a pass/fail grading basis by CS majors or minors.
+
+- Writing Component. At least one “W”-designated course or 1111 course in the English Language must be included from the Liberal Arts Core (#4), Technical Electives (#9), or Open Electives (#10).
+
 
 ## 选课：CS Core
 在范德堡，一个CS学生要上的专业课以及进阶（prerequisite）关系可以参照以下这张表格：
@@ -124,6 +148,12 @@ CS8396 - Special Topics
 ## Demystify Immersion
 
 ## The honors program
+CS专业的honors program是自动qualify的，学位上的名字会变成Honors in Computer Science. 他的requirement如下：
+- overall GPA >= 3.5
+- CS course GPA >= 3.5
+- 6 hours of any combination of undergrad research (CS 3860/3861) and [6 level courses](#existing-listed-courses)
+
+Note: 如果要留在Vandy继续自己的master or doctorate degree，上的6 level course可以同时满足honors program要求并且counts towards future degree.（As of Jan 2024, 和engineering OAS confirm过，也许需要further confirmation）。
 
 ## Everything about Research
 
