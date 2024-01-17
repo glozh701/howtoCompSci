@@ -57,8 +57,7 @@ A comprehensive guide to success for Vanderbilt students majoring in CS.
 
 ## 选课：CS Core
 在范德堡，一个CS学生要上的专业课以及进阶（prerequisite）关系可以参照以下这张表格：
-![howtoCompSci](https://github.com/glozh701/howtoCompSci/assets/70546368/5b328fe0-8023-4ec4-ad89-e1d5760bdc04)
-
+![howtoCompSci](https://github.com/glozh701/howtoCompSci/assets/70546368/88d27a02-0126-467a-86e0-ebf96ca4ea19)
 
 这张图应当能让你有一个vandy cs课之间关系的直接认知。在后面的段落里，会对每节课/每一部分cs major requirement有更详细的解释。
 
