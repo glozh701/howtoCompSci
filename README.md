@@ -30,12 +30,17 @@ A comprehensive guide to success for Vanderbilt students majoring in CS.
 ## 选课：非CS领域必修课
 这些信息可以在academic catalog上面找到。选择包含这部分信息是觉得会方便信息检索。这一部分会列出所有degree non-technical requirements，与CS相关的课请参考其他section.
 
-- Mathematics (20–22 hours). Required components:\n
-    a. Calculus/Linear algebra (14–16 hours). A sequence selected from the following:\n
-        i. MATH 1300, 1301, 2300, and one of 2410 or 2600, or\n
-        ii. MATH 1300, 1301, 2500, 2501\n
-    b. Statistics/Probability (3 hours): MATH 2810, 2820, or 3640.\n
-    c. Elective course (3 hours). To be selected from MATH 2420 or courses numbered 2610 or higher.\n
+- Mathematics (20–22 hours). Required components:
+
+    a. Calculus/Linear algebra (14–16 hours). A sequence selected from the following:
+  
+        i. MATH 1300, 1301, 2300, and one of 2410 or 2600, or
+  
+        ii. MATH 1300, 1301, 2500, 2501
+  
+    b. Statistics/Probability (3 hours): MATH 2810, 2820, or 3640.
+  
+    c. Elective course (3 hours). To be selected from MATH 2420 or courses numbered 2610 or higher.
   
 - Science (12 hours). To be selected from the following list and include at least one laboratory course: BSCI 1100, 1100L, 1510, 1510L, 1511, 1511L, 2218, 2219; CHEM 1601, 1601L, 1602, 1602L; Earth and Environmental Sciences 1510, 1510L; MSE 1500, 1500L; PHYS 1601, 1601L, 1602, 1602L. Recommended: CHEM 1601, 1601L; PHYS 1601, 1602.
 
