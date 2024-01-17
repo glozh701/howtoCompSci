@@ -3,7 +3,7 @@ A comprehensive guide to success for Vanderbilt students majoring in CS.
 
 ## Table of Contents
 1. [前言](#前言)
-2. [选课：非CS领域必修课](#选课-非cs领域必修课)
+2. [选课：Non-technical Requirements](#选课-non-technical-requirements)
 3. [选课：CS Core](#选课cs-core)
 4. [选课：CS Electives](#选课cs-electives)
 5. [选课：Grad course 101](#选课grad-course-101)
@@ -27,7 +27,7 @@ A comprehensive guide to success for Vanderbilt students majoring in CS.
 
 *Note: 对于所有课程的评价以及见解仅一家之言，不作为客观评判标准*
 
-## 选课：非CS领域必修课
+## 选课：Non-technical Requirements
 这些信息可以在academic catalog上面找到。选择包含这部分信息是觉得会方便信息检索。这一部分会列出所有degree non-technical requirements，与CS相关的课请参考其他section.
 
 - Mathematics (20–22 hours). Required components:
@@ -158,7 +158,7 @@ CS专业的honors program是自动qualify的，学位上的名字会变成Honors
 - CS course GPA >= 3.5
 - 6 hours of any combination of undergrad research (CS 3860/3861) and [6 level courses](#existing-listed-courses)
 
-Note: 如果要留在Vandy继续自己的master or doctorate degree，上的6 level course可以同时满足honors program要求并且counts towards future degree.（As of Jan 2024, 和engineering OAS confirm过，也许需要further confirmation）。
+Note: 如果要留在Vandy继续自己的master or doctorate degree，上的6 level course可以同时满足honors program要求并且counts towards future degree. As of Jan 2024, confirmed with engineering OAS. Further confirmation may be needed.
 
 ## Everything about Research
 
