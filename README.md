@@ -3,7 +3,7 @@ A comprehensive guide to success for Vanderbilt students majoring in CS.
 
 ## Table of Contents
 1. [前言](#前言)
-2. [选课：Non-technical Requirements](#选课-non-technical-requirements)
+2. [选课：Non-technical Requirements](#选课non-technical-requirements)
 3. [选课：CS Core](#选课cs-core)
 4. [选课：CS Electives](#选课cs-electives)
 5. [选课：Grad course 101](#选课grad-course-101)
@@ -32,7 +32,7 @@ A comprehensive guide to success for Vanderbilt students majoring in CS.
 
 - Mathematics (20–22 hours). Required components:
 
-    a. Calculus/Linear algebra (14–16 hours). A sequence selected from the following:
+    a. Calculus/Linear Algebra (14–16 hours). A sequence selected from the following:
   
         i. MATH 1300, 1301, 2300, and one of 2410 or 2600, or
   
@@ -158,7 +158,9 @@ CS专业的honors program是自动qualify的，学位上的名字会变成Honors
 - CS course GPA >= 3.5
 - 6 hours of any combination of undergrad research (CS 3860/3861) and [6 level courses](#existing-listed-courses)
 
-Note: 如果要留在Vandy继续自己的master or doctorate degree，上的6 level course可以同时满足honors program要求并且counts towards future degree. As of Jan 2024, confirmed with engineering OAS. Further confirmation may be needed.
+Note: 如果要留在Vandy继续自己的master or doctorate degree，上的6 level course可以同时满足honors program要求并且counts towards future degree. 
+
+*As of Jan 2024, confirmed with engineering OAS. Further confirmation may be needed.*
 
 ## Everything about Research
 
